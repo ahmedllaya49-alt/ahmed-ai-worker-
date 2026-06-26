@@ -201,5 +201,5 @@ export default {
 
     return jsonError("Route not found", 404, origin);
   },
-};
 
+};
